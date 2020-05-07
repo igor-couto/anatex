@@ -3,3 +3,8 @@ Anatex is an application developed during my graduation for the course "Data Str
 
 I think this was a great project in my learning, despite having made many mistakes at the time.
 Most of the comments in the code are in Portuguese, unfortunately 😞
+
+### Author
+
+* **Igor Couto** - [igor.fcouto@gmail.com](mailto:igor.fcouto@gmail.com)
+* **Douglas Oliveira** - [dcoelhobo@gmail.com](mailto:dcoelhobo@gmail.com)
